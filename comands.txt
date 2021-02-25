@@ -1,0 +1,6 @@
+lista todos os arquivos >>> ls
+
+adicionar pastar >>> git add
+
+ver status da pastar >>> git status
+
